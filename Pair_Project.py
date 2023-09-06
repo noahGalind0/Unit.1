@@ -3,7 +3,7 @@ userInput = input("Enter A or B. A) Head towards Mars B) Head into empty space")
 
 if userInput == 'A':
 # Student 1 finishes this code
-
+     print("You headed towards Mars!")
 elif userInput == 'B':
 # Student 2 finishes this code 
 
